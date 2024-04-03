@@ -1,0 +1,44 @@
+body{
+  background: #ffffff;
+}
+
+.container{
+  color: #ffffff;
+  font-weight: bold;
+  font-family: ubuntu condensed;
+  text-decoration: solid;
+}
+
+.cmyk{
+  display: bold;
+}
+
+.box1{
+width:90%;
+height:100px;
+margin: auto;
+background: #ffff00;
+padding: 2%;
+
+margin-bottom: 0px;
+}
+
+.box2{
+width:90%;
+height:100px;
+margin: auto;
+background: #ede211;
+padding: 2%;
+
+margin-bottom: 0px;
+}
+
+.box3{
+width:90%;
+height:100px;
+margin: auto;
+background: #ff8c00;
+padding: 2%;
+
+margin-bottom: 0px;
+}
